@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Advanced calculator/out/
+/Problems/Advanced calculator/out/production/classes/
+/Problems/The index of an argument/out/
+/Problems/The index of an argument/out/production/classes/
+/Readability Score/task/build/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
